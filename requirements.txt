@@ -2,11 +2,13 @@ blis==0.7.4
 catalogue==2.0.6
 certifi==2021.10.8
 charset-normalizer==2.0.7
+ChatterBot
+chatterbot-corpus==1.2.0
 click==8.0.3
 colorama==0.4.4
 cymem==2.0.5
-ChatterBot
 Flask==2.0.2
+gunicorn==20.1.0
 idna==3.3
 itsdangerous==2.0.1
 Jinja2==3.0.2
@@ -18,6 +20,7 @@ pathy==0.6.0
 preshed==3.0.5
 pydantic==1.8.2
 pyparsing==2.4.7
+PyYAML==3.13
 requests==2.26.0
 scipy==1.7.1
 smart-open==5.2.1
@@ -32,4 +35,3 @@ typing-extensions==3.10.0.2
 urllib3==1.26.7
 wasabi==0.8.2
 Werkzeug==2.0.2
-gunicorn==20.1.0
